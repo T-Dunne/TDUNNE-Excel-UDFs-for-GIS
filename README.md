@@ -1,3 +1,3 @@
-# PENDING
+# Usefull Excel add-ins for GIS
 
-pending
+
